@@ -7,7 +7,7 @@ We used the median household income from these years and a cost per child analys
 # How to use data
 Download files and open each notebook corresponding to which portion of the data you want to utilize.
 Ensure you have access to a code editing software or use online access to jupiter notebooks. 
-Ensure you have all libraries in your local environment then run the code.
+Ensure you have pandas, matblotlib, and numpy libraries in your local environment then run the code.
 
 
 # Sources
@@ -27,4 +27,7 @@ https://www.self.inc/info/childcare-costs-by-state/#:~:text=Key%20Statistics,%24
 There are 4 jupiter notebooks in the code folder.
 There are 3 jupiter notebooks in the code folder each named for the part of the data it analyzes. 
 A fourth notebook witht the code for the charts is also available.
-Libraries used in this project. 
+
+# What we found.
+The data displays increases in cost of childcare from 2018 to 2023. Home based childcare is cheaper across the board. Where as center based childcare is more expensive. 
+
