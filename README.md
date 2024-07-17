@@ -31,5 +31,5 @@ A fourth notebook witht the code for the charts is also available.
 # What we found.
 The data displays increases in cost of childcare from 2018 to 2023. Home based childcare is cheaper across the board. Where as center based childcare is more expensive.
 
-output_data/center_based_histogram.png
+https://github.com/Clivesay1/Project-1/blob/582c1c2c6d29e308ca2d975d4d773ebc793411c3/output_data/center_based_histogram.png
 
