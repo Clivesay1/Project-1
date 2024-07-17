@@ -1,7 +1,6 @@
 # Analysis of cost of childcare in TN for the years 2018 vs 2023
-Presented and anlaysed by- Titus Muchiri, Drew Johnson, Draker Anderson, Denise Miller and Chris Livesay
 
-Pur goal was to discern the cost of childcare for 2018 vs 2023. Looking at one year differences prior to and post covid. 
+our goal was to discern the cost of childcare for 2018 vs 2023. Looking at one year differences prior to and post covid. 
 We used the median household income from these years and a cost per child analysis to get our numbers.
 
 # How to use data
@@ -29,7 +28,19 @@ There are 3 jupiter notebooks in the code folder each named for the part of the 
 A fourth notebook witht the code for the charts is also available.
 
 # What we found.
-The data displays increases in cost of childcare from 2018 to 2023. Home based childcare is cheaper across the board. Where as center based childcare is more expensive.
+There are increases in cost of childcare from 2018 to 2023.  
+Home based childcare is cheaper across the board. Where as center based childcare is more expensive. The histogram shows comparisons and reflects this.
+There was a decrease in overall cost per child in TN in 2023. 
+The median household income and cost per child mirrored each other. 
 
-![Alt text] (https://github.com/Clivesay1/Project-1/blob/582c1c2c6d29e308ca2d975d4d773ebc793411c3/output_data/center_based_histogram.png)
+# In the future
+It would behoove us to look at more data and ask smaller questions that can build into the goals of our analysis. 
+Possibly using better charts to refelct our data as well as not relying on text in slides to present the data. 
+
+# Acknowledgement
+Presented and anlaysed by- Titus Muchiri, Drew Johnson, Draker Anderson, Denise Miller and Chris Livesay
+We also used a previous data analysis on self.inc referenced above to get ideas of how to present our data.
+
+
+
 
