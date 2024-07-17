@@ -29,5 +29,7 @@ There are 3 jupiter notebooks in the code folder each named for the part of the 
 A fourth notebook witht the code for the charts is also available.
 
 # What we found.
-The data displays increases in cost of childcare from 2018 to 2023. Home based childcare is cheaper across the board. Where as center based childcare is more expensive. 
+The data displays increases in cost of childcare from 2018 to 2023. Home based childcare is cheaper across the board. Where as center based childcare is more expensive.
+
+output_data/center_based_histogram.png
 
