@@ -13,10 +13,13 @@ Ensure you have all libraries in your local environment then run the code.
 # Sources
 Department of labor statistics to assess the cost of childcare.
 https://www.dol.gov/sites/dolgov/files/WB/media/NDCP-State-Level-Estimates-2018-2023.xlsx
+
 Median household income data from the National Center of Education
 https://nces.ed.gov/programs/digest/d19/tables/dt19_102.30.asp
+
 Census Api
 https://www.census.gov/data.html
+
 Selfcare inc. 
 https://www.self.inc/info/childcare-costs-by-state/#:~:text=Key%20Statistics,%2418%2C866%20per%20child%20per%20year
 
