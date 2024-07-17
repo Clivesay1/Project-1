@@ -40,7 +40,3 @@ Possibly using better charts to refelct our data as well as not relying on text 
 # Acknowledgement
 Presented and anlaysed by- Titus Muchiri, Drew Johnson, Draker Anderson, Denise Miller and Chris Livesay
 We also used a previous data analysis on self.inc referenced above to get ideas of how to present our data.
-
-
-
-
