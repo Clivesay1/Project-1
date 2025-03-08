@@ -9,3 +9,5 @@ Entry 3690: minor update.
 Update 9153.
 <!-- 7315 -->
 <!-- update 1499 -->
+# Note
+Update 2926.
